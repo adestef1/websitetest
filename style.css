@@ -1,0 +1,9 @@
+h2 {
+	color: #fca103;
+}
+
+#picture {
+	top: 300px;
+	left: 500px;
+	position: absolute;
+}
