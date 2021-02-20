@@ -55,7 +55,8 @@ h4 {
 	color: #818181;
 	position: center;
 	text-align: left;
-	margin-left: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
 	font-size: 20px;
 	font-family: sans-serif;
 }
@@ -68,6 +69,17 @@ h5 {
 	margin-right: 10%;
 
 }
+
+h6 {
+	color: #818181;
+	position: center;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
 
 logo {
 	margin-left: 30%;
