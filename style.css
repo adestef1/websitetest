@@ -65,6 +65,8 @@ h5 {
 	text-align: left;
 	font-size: 20px;
 	font-family: sans-serif;
+	margin-right: 10%;
+
 }
 
 logo {
@@ -81,7 +83,7 @@ padding {
 
 /* resize images */
 .container img {
-    width: 50%;
+    width: 60%;
     height: auto;
 }
 
