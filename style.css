@@ -27,7 +27,8 @@
 	position: center;
 	padding: 100px;
 	text-align: center;
-	background-image: url("backtop.png");
+	background-image: url("BOPtothe.png");
+	background-repeat: no-repeat;
 	font-size: 45px;
 	font-family: Acumin Variable Concept;
 }
