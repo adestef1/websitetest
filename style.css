@@ -18,7 +18,7 @@
 
 #navbar a:hover {
 	background-color: #383838;
-	color: #811c1c;
+	color: #a70c0c;
 }
 
 
@@ -60,7 +60,7 @@ h3 {
 }
 
 h4 {
-	color: #818181;
+	color: #000000;
 	position: center;
 	text-align: left;
 	margin-left: 20%;
